@@ -251,10 +251,10 @@ timeline
     2024 : AI/ML Intern @ Alar Innovations
          : CNN Image Classification
          : TensorFlow & OpenCV
-    2023 : Web Dev Intern @ Quantum Learning
+    2025 : Web Dev Intern @ Quantum Learning
          : Responsive Web Apps
          : HTML, CSS, JavaScript
-    2023 : Software Dev Intern @ Kodnest
+    2025 : Software Dev Intern @ Kodnest
          : Full-Stack Development
          : Python, SQL, Web Tech
 ```
